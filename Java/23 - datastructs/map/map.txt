@@ -1,0 +1,3 @@
+Use a map when you want to associate values with unique keys, like storing user ids
+
+Treemap is sorted per usual like Treeset

@@ -1,0 +1,1 @@
+Use List when you care about order, may have deuplicates, and want to access elements by index
