@@ -1,0 +1,3 @@
+Use set when storing unique values only
+
+Treesets auto sort, this makes them slower because it searches binary set tree algorithm
